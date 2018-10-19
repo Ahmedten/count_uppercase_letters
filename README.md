@@ -27,12 +27,7 @@ def find_element(p,a):
             return i
         i = i+1
     return -1
-
-        
-
-
-
-
+    
 print find_element([1,2,3],3)
 #>>> 2
 
